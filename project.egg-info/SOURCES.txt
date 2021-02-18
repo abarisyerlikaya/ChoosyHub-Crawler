@@ -1,0 +1,14 @@
+setup.py
+choosyhub_crawler/__init__.py
+choosyhub_crawler/items.py
+choosyhub_crawler/middlewares.py
+choosyhub_crawler/pipelines.py
+choosyhub_crawler/settings.py
+choosyhub_crawler/spiders/__init__.py
+choosyhub_crawler/spiders/hepsiburada.py
+choosyhub_crawler/spiders/trendyol.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
